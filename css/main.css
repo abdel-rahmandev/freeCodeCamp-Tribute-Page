@@ -1,0 +1,64 @@
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color: #333;
+}
+#main {
+    background-color: #f2f8fb;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#title {
+    margin: 30px 0px;
+}
+h1 {
+    margin-bottom: 30px;
+    font-size: 3rem;
+}
+#img-div {
+    margin-bottom: 60px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+}
+#img-caption {
+    margin-top: 20px;
+}
+#tribute-info {
+    text-align: left;
+    max-width: 700px;
+    margin: 0px auto;
+}
+h2 {
+    text-align: center;
+}
+h2, ul, blockquote {
+    margin-bottom: 30px;
+}
+ul li {
+    line-height: 2;
+}
+blockquote {
+    font-style: italic;
+}
+cite {
+    display: block;
+    margin-top: 20px;
+}
+#more-info {
+    font-weight: bold;
+    font-size: 20px;
+}
+#tribute-link {
+    color: #3f51b5;
+}
